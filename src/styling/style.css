@@ -1,0 +1,58 @@
+/* styles.css */
+
+body {
+    background-color: #f0f2f5;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .layout {
+    min-height: 100vh;
+  }
+  
+  .site-layout-content {
+    background: #fff;
+    padding: 24px;
+    margin: 0 auto;
+    max-width: 1200px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+  
+  .header {
+    background: #001529;
+  }
+  
+  .footer {
+    text-align: center;
+    background: #001529;
+    color: white;
+  }
+  
+  .upload-section,
+  .table-section,
+  .calculator-section {
+    margin-bottom: 24px;
+  }
+  
+  .ant-btn-primary {
+    background-color: #1890ff;
+    border-color: #1890ff;
+  }
+  
+  .ant-pagination {
+    text-align: center;
+    margin-top: 16px;
+  }
+  
+  .subscription-price {
+    margin-top: 16px;
+  }
+  
+  .subscription-price div {
+    padding: 8px;
+    background: #e6f7ff;
+    border: 1px solid #91d5ff;
+    border-radius: 4px;
+    margin-bottom: 8px;
+  }
+  
